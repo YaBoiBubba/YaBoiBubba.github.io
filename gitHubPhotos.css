@@ -1,0 +1,55 @@
+*{
+    background-color: #708090;
+    color: white;
+}
+
+.desertPic{
+    width: 90%;
+    padding-bottom: 10px;
+}
+
+#pictures{
+    text-align: center;
+}
+
+.link{
+    font-size: 2rem;
+    text-decoration: none;
+    border: 4px dashed #36454f;
+    padding: 3px;
+}
+
+.link:hover{
+    color: blue;
+}
+
+#header{
+    height: 75px;
+    margin-top: -10px;
+    padding-top: 15px;
+    background-color: #536872;
+    font-weight: bold;
+    font-family: fantasy, Arial, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+}
+
+#footer{
+    text-align: right;
+    font-size: 1.5rem;
+    font-family: Arial;
+    margin: 10px 15px 0px 0px;
+}
+
+#footer span{
+    font-family: cursive;
+}
+
+table{
+    margin-top: 30px;
+}
+
+th{
+    font-size: 2em;
+    padding: 15px;
+}
