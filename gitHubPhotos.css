@@ -54,8 +54,17 @@ th{
     padding: 15px;
 }
 
-.left{
-    float: left;
-    width: 50&;
+.body{
+    text-align: center;
     height: 700px;
+}
+
+#OAPAbout{
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+
+#OAPHyper{
+    color: gold;
+    text-decoration: none;
 }
