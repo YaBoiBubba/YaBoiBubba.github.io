@@ -64,7 +64,20 @@ th{
     font-family: sans-serif;
 }
 
-#OAPHyper{
+#GoldHyper{
     color: gold;
     text-decoration: none;
+}
+
+#GreenHyper{
+    color: #74d600;
+}
+
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
 }
