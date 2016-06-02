@@ -81,3 +81,8 @@ th{
 .left{
     float: left;
 }
+
+#backHome{
+    background-color: #536872;
+    text-decoration: none;
+}
