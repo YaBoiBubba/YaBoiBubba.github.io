@@ -53,3 +53,9 @@ th{
     font-size: 2em;
     padding: 15px;
 }
+
+.left{
+    float: left;
+    width: 50&;
+    height: 700px;
+}
