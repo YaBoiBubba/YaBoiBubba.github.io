@@ -29,7 +29,7 @@
     padding-top: 15px;
     background-color: #536872;
     font-weight: bold;
-    font-family: fantasy, Arial, sans-serif;
+    font-family: fantasy, Georgia, sans-serif;
     text-align: center;
     font-size: 3rem;
 }
@@ -42,7 +42,7 @@
 }
 
 #footer span{
-    font-family: cursive;
+    font-family: cursive, Tahoma;
 }
 
 table{
