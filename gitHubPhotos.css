@@ -10,6 +10,7 @@
 
 #pictures{
     text-align: center;
+    font-family: 'Comfortaa';
 }
 
 .link{
@@ -17,6 +18,7 @@
     text-decoration: none;
     border: 4px dashed #36454f;
     padding: 3px;
+    font-family: Georgia, sans-serif;
 }
 
 .link:hover{
@@ -24,14 +26,14 @@
 }
 
 #header{
-    height: 75px;
+    height: 90px;
     margin-top: -10px;
-    padding-top: 15px;
+    padding-top: 13px;
     background-color: #536872;
     font-weight: bold;
-    font-family: fantasy, Georgia, sans-serif;
+    font-family: 'Amatic SC', fantasy, Georgia;
     text-align: center;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 #footer{
@@ -42,7 +44,7 @@
 }
 
 #footer span{
-    font-family: cursive, Tahoma;
+    font-family: 'Kaushan Script', cursive, Tahoma;
 }
 
 table{
