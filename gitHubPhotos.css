@@ -9,8 +9,13 @@
 }
 
 #pictures{
-    text-align: center;
     font-family: 'Comfortaa';
+}
+
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .link{
